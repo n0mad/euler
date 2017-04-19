@@ -1,0 +1,2002 @@
+Traceback (most recent call last):
+  File "code.py", line 56, in <module>
+    allsets =  getSets(ends, others)
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 50, in getSets
+    allsets = allsets.union(getSets(endsnew, othersnew))
+  File "code.py", line 44, in getSets
+    allsets = set()
+RuntimeError: maximum recursion depth exceeded while calling a Python object

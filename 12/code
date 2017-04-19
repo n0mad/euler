@@ -1,0 +1,18 @@
+def getNth(n):
+    return n(n+1)/2
+
+def getDivizors(n):
+    return n - phi(n) + 1
+    
+    
+def phi(n):
+    denomin = n
+    phi = 1
+    for x in xrange(2,n+1):
+        #print x, denomin
+        while 0 == denomin % x:
+            denomin = denomin / x
+            phi = phi*(x-1)#phi * (1 - 1.0/x)
+            
+        if denomin == 1:
+            return int(phi)

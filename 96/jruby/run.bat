@@ -1,0 +1,1 @@
+jruby --server --fast -J-Djruby.compile.frameless=true -J-Djruby.compile.fastops=true -J-Djruby.compile.positionless=true -J-Djruby.objectspace.enabled=false -J-Djruby.ji.objectProxyCache=false cody.rb
